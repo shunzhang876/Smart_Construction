@@ -1,11 +1,5 @@
 # Smart_Construction
 
-[![](https://img.shields.io/github/stars/PeterH0323/Smart_Construction.svg)](https://github.com/PeterH0323/Smart_Construction/stargazers)
-
-**如果帮到您请给个 star :star2::star2::star2:，您的 star:star2: 是我最大的鼓励！**
-
-**如果您觉得我的项目不错，可以将我的 Github 链接随便转发；但如果您想发文章，请将我的 Github 链接放到文章开头的位置，谢谢！开源不易，请尊重每个人的汗水！**
-
 该项目是使用 `YOLOv5 v2.x` 的程序来训练在智能工地安全领域中头盔目标检测的应用
 
 ## 可视化界面演示（2021.3 上新！）：
@@ -320,25 +314,3 @@ python detect.py --save-txt --source 自己数据集的文件目录 --weights ./
 修改 `./data/gen_data/merge_data.py` 中的自己数据集标签所在的路径，执行这个python脚本，会进行 `人体(person)` 类型的合并 
 
 ---
-
-**如果帮到您请给个 star ✨✨✨，您的 star 是我最大的鼓励！**
-
-**如果能帮到您的项目快速落地，可以请我喝杯奶茶☕**
-
-<div align=center>
-<img src="./doc/BuyMeACoffee.jpg" width="500"/>
-</div>
-
-也可以加我的 WeChat 和我一起探讨更多的可能！**加我微信条件请看下面3条，加好友消息请备注：`Github Smart_Construction`。**
-
-❗ ❗ ❗**注意**❗ ❗ ❗
-
-**1、欢迎论文or项目合作**
-
-**2、毕业设计/课程设计 远程帮助需要收费（起步价 888）**
-
-**3、毕业设计、竞赛等咨询环境怎么配置，或者询问怎么操作的大佬们请先看文档，遇到问题请先百度或者学习相关基础，实在不懂了的话，请询问周边大佬，相关操作本人在README写得很清楚了，不想再回答相关问题**
-
-<div align=center>
-<img src="./doc/WeChat.jpg" width="300"/>
-</div>
